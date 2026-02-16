@@ -1,6 +1,6 @@
 import React from 'react'
 import { Image, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native'
-import { stylesRegistro } from './Theme/AppInicialTheme'
+import { stylesRegistro } from '../Theme/AppInicialTheme'
 
 export const IniciarSesionScreen = () => {
     return (
